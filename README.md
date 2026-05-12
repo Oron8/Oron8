@@ -1,4 +1,14 @@
 ## Hola! Bienvenido a mi rinconcito del Internet!
+<!--tachar esto en el futuro -->
+# No tengo mucho aca pero lo que tengo espero que te guste.
+
+# HTML:
+[ORON8.COM](https://oron8.com)
+
+# Python:
+nada, lol
+
+
 
 <!--
 **Oron8/Oron8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
