@@ -1,6 +1,6 @@
 # Hola! Bienvenido a mi rinconcito del Internet!
 <!--tachar esto en el futuro -->
-## No tengo mucho aca pero lo que tengo espero que te guste.
+## No tengo mucho acá pero lo que tengo espero que te guste.
 
 ## HTML:
 [ORON8.COM](https://oron8.com)
