@@ -7,7 +7,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![KiCad](https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white) ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white) ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)
 
 ## Sociales
-<img src="https://dcbadge.limes.pink/api/shield/1043264298580983899" /><img src="https://dcbadge.limes.pink/api/shield/1043264298580983899" />
+<img src="https://dcbadge.limes.pink/api/shield/1043264298580983899" />
+
 🔸 [REDDIT](https://oron8.com/pending)  
 📸 [INSTAGRAM](https://www.instagram.com/oron_8/)  
 🏠 [MUSEO](https://www.instagram.com/museoetec/)
