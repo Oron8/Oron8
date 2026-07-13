@@ -8,11 +8,6 @@
 
 ## Sociales
 <img src="https://dcbadge.limes.pink/api/shield/1043264298580983899" />
-
-🔸 [REDDIT](https://oron8.com/pending)  
-📸 [INSTAGRAM](https://www.instagram.com/oron_8/)  
-🏠 [MUSEO](https://www.instagram.com/museoetec/)
-
 <!--
 **Oron8/Oron8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
